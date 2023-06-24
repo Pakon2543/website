@@ -13,7 +13,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "@octokit/rest": "^17.11.0",
+    "@octokit/rest": "^19.0.13",
     "@octokit/types": "^5.0.0",
     "coffeescript": "~1.6.3"
   },
